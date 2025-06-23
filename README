@@ -1,0 +1,47 @@
+
+Proyecto de Algoritmos de Ordenamiento en Java
+
+Este proyecto implementa múltiples algoritmos de ordenamiento en Java, cada uno encapsulado en su propia clase con métodos para:
+- Insertar elementos
+- Buscar elementos
+- Eliminar elementos
+- Ordenar los datos
+- Mostrar los datos
+
+Además, incluye una clase `Interfaz` con un menú interactivo que permite al usuario interactuar con cada algoritmo. Al iniciar el programa, se insertan automáticamente 20 números aleatorios en cada estructura para facilitar la prueba de los métodos.
+
+Algoritmos implementados:
+- Bubble Sort
+- Insertion Sort
+- Selection Sort
+- Merge Sort
+- Quick Sort
+- Shell Sort
+- Heap Sort
+- Radix Sort
+- Counting Sort
+- Bucket Sort
+
+Estructura del Proyecto:
+/src
+├── interfaz/
+│   └── Interfaz.java
+└── mundo/
+    ├── BubbleSort.java
+    ├── InsertionSort.java
+    ├── SelectionSort.java
+    ├── MergeSort.java
+    ├── QuickSort.java
+    ├── ShellSort.java
+    ├── HeapSort.java
+    ├── RadixSort.java
+    ├── CountingSort.java
+    └── BucketSort.java
+
+Cómo ejecutar:
+1. Compila todos los archivos `.java` en tu IDE o desde la terminal.
+2. Ejecuta la clase `Interfaz`.
+3. Usa el menú para interactuar con los algoritmos.
+
+Autor:
+ANDRES FELIPE CONTRERAS MENDEZ  
